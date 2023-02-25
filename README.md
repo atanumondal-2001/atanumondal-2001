@@ -9,7 +9,7 @@ Full Stack Developer
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,cassendra,Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/atanumondal-2001/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
